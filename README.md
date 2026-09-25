@@ -1,35 +1,65 @@
 # Java OOP Practice
 
-This repository contains my Java programming practice and implementations of Object-Oriented Programming concepts.
+A collection of Java programs created while learning and practicing
+Object-Oriented Programming and core Java concepts.
 
 ## Topics Covered
 
-- Java Fundamentals
+| Program | Concept |
+|---|---|
+| ClassesAndObjects.java | Classes and Objects |
+| Encapsulation.java | Encapsulation |
+| Inheritance.java | Inheritance |
+| Polymorphism.java | Runtime Polymorphism |
+| Abstraction.java | Abstract Classes |
+| Interfaces.java | Interfaces |
+| ExceptionHandling.java | Exception Handling |
+| ArraysAndStrings.java | Arrays and Strings |
+| Collections.java | ArrayList and Collections |
+
+## Concepts Practiced
+
 - Classes and Objects
-- Constructors
+- Constructors and object creation
 - Encapsulation
 - Inheritance
 - Polymorphism
 - Abstraction
 - Interfaces
 - Exception Handling
-- Arrays and Strings
+- Arrays
+- Strings
 - Collections
-- Practice Problems
+- ArrayList
+- Loops and basic Java syntax
 
 ## Purpose
 
-I am using this repository to strengthen my Java programming fundamentals and develop a strong understanding of Object-Oriented Programming.
+This repository documents my Java learning journey through
+practical examples and small programs.
 
-## Learning Journey
+The programs are intentionally kept simple and focused so that
+each file demonstrates a specific Java concept.
 
-Currently learning:
+## Technologies
 
 - Java
 - Object-Oriented Programming
-- Data Structures and Algorithms
+- Java Collections Framework
 
----
+## Learning Progress
 
-**Author:** M Sai Kiran Reddy  
-**Branch:** CSE (AI/ML)
+- [x] Classes and Objects
+- [x] Encapsulation
+- [x] Inheritance
+- [x] Polymorphism
+- [x] Abstraction
+- [x] Interfaces
+- [x] Exception Handling
+- [x] Arrays and Strings
+- [x] Collections
+
+## Future Practice
+
+More Java programs and practical projects will be added as I continue
+learning Java and Object-Oriented Programming.
